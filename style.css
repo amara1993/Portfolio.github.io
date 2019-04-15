@@ -1,0 +1,86 @@
+body{
+	font-family: 'Dancing Script', cursive;
+}
+
+main{
+	background: lightpink;
+}
+
+.md-form input{
+ 	background:lightblue;
+}
+
+#form-text{
+	background:lightblue;
+}
+
+#header{
+	background:url("images/amara2.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:800px;
+}
+
+#header:hover{
+	background:url("images/amara1.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:800px;
+}
+
+#gallery{
+	background: lightpink;
+}
+
+.square {
+  
+  border-radius: 50%;
+  height: 200px;
+  width: 300px;
+  transition: all .3s ease-in-out;
+}
+
+.square:hover {
+  border-radius:0;  
+  cursor: pointer;
+}
+
+.map-container-6{
+overflow:hidden;
+padding-bottom:78%;
+position:relative;
+height:0;
+}
+
+.map-container-6 iframe{
+left:0;
+top:0;
+height:570px;
+width:100%;
+position:absolute;
+}
+
+div .form{
+ padding-bottom:100px;
+}
+.special a{
+  color:white;
+}
+.special{
+  background: black;
+  height:100px;
+
+}
+.special-1{
+  text-align: left;
+  margin-right:30px;
+  margin:40px 0px 0px 10px;
+  
+}
+.special-2{
+  padding-left:970px;
+  font-size:24px;
+}
+
+
+
